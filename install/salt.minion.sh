@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Set up and install salt-minion, instructions taken from: http://docs.saltstack.com/en/latest/topics/installation/ubuntu.html
 
